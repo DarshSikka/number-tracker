@@ -1,0 +1,27 @@
+input.n{
+  color:brown;
+  margin-top:10%;
+  height:54px;
+  font-size:40px;
+  background-color:peachpuff;
+}
+.display{
+  color:grey;
+  font-size:50px;
+}
+a{
+  color:black;
+  text-decoration:none;
+}
+.filer, button{
+  height:30px;
+  font-size:20px;
+  margin-top:0;
+  margin-left:20px;
+}
+button{
+  background-color:wheat;
+}
+.things{
+  margin-top:50px;
+}
